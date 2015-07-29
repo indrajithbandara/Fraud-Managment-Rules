@@ -19,3 +19,5 @@ translate.yandex.ru
 
 translate.google.com
 
+Russion version of this documents https://cloud.mail.ru/public/Fnx3/LmMd9iWLQ
+
