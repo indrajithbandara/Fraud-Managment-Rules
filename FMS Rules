@@ -1,4 +1,4 @@
-Russian version of this document in xlsx format on https://cloud.mail.ru/public/0169b196a818/antifraud%20(2).xlsx
+Russian version of this document in xlsx format on https://drive.google.com/open?id=0B1LJs73TOqU3cVAya294QnVJSGM
 
 Фрод в области кредитных карт. Обнаружение фрода.	Результат срабатывания правила	Балы риска	Тип правила	Объект на который начисляются штрафные балы	Объяснение.
 Транзакция с ip адреса с  которого данный пользователь за последние N дней не работал.	Начисление балов риска.	20-40	Атомарное	Транзакция	
